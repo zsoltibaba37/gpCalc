@@ -16,7 +16,7 @@ $> ./gpCalc.py 145.99
 ----------------------------------------
       Sun Feb 15 15:14:42 2026
 ----------------------------------------
-
 ```
+![GP Antenna](https://github.com/zsoltibaba37/gpCalc/blob/main/gpAntenna.png)
 ---
 2026

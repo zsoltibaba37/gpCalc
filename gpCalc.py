@@ -5,7 +5,7 @@ __author__ = "Zsolt Peto"
 __license__ = "MIT"
 __copyright__ = "Copyright 2026"
 __version__ = "0.1"
-__status__ = "In progress"
+__status__ = "Stable"
 
 from sys import argv, exit
 from termcolor import cprint

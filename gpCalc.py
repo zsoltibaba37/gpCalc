@@ -29,8 +29,8 @@ if len(argv) < 2:
     exit(1)
 
 f = float(argv[1]) * 1e6    # Frequency
-c = 300_000_000             # Speed of light ~
-vf = 0.95                   # Velocity factor
+c = 299_792_458             # Speed of light ~
+vf = 0.96                   # Velocity factor
 
 ##################################################################
 ########## Calculations ##########

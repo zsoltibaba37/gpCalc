@@ -28,6 +28,14 @@ if len(argv) < 2:
     print(f"Need Frequency !!! \n")
     exit(1)
 
+try:
+    x = float(argv[1])
+except ValueError:
+    usage()
+    print("Use float number!\n")
+    exit()
+
+
 f = float(argv[1]) * 1e6    # Frequency
 c = 299_792_458             # Speed of light ~
 vf = 0.96                   # Velocity factor

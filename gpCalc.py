@@ -60,7 +60,7 @@ cprint(f"{v:.2f} mm", "green")
 print(f" Radials           : ", end='')
 cprint(f"{r:.2f} mm", "yellow")
 linea()
-print("      ", end='')
+print("        ", end='')
 cprint(d.strftime("%c"), "green")
 linea()
 ########## END ##########
